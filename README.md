@@ -5,3 +5,4 @@ Notes de cours [Openclassrooms Python](https://openclassrooms.com/fr/courses/620
 1. Operateurs de chaines de caracteres
 1. Listes et dictionnaires + Operateurs
 1. Boucles et conditionnel
+1. Fonctions random & maths
